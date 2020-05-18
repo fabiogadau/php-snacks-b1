@@ -18,20 +18,20 @@
          [
             'home' => 'Dinamo Sassari',
             'away' => 'Los Angeles Lakers',
-            'home_points' => rand(1, 200),
-            'away_points' => rand(1, 200)
+            'home_points' => rand(1, 150),
+            'away_points' => rand(1, 150)
          ],
          [
             'home' => 'Reyer Venezia',
             'away' => 'Chicago Bulls',
-            'home_points' => rand(1, 200),
-            'away_points' => rand(1, 200)
+            'home_points' => rand(1, 150),
+            'away_points' => rand(1, 150)
          ],
          [
             'home' => 'Vanoli Cremona',
             'away' => 'Boston Celtics',
-            'home_points' => rand(1, 200),
-            'away_points' => rand(1, 200)
+            'home_points' => rand(1, 150),
+            'away_points' => rand(1, 150)
          ]
       ];
    ?>
